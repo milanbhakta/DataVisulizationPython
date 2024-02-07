@@ -6,3 +6,4 @@ import pandas as pd
 import scipy
 import PIL
 import requests
+import seaborn as sns
